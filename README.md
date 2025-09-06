@@ -1,7 +1,5 @@
 # URL Shortener Backend
 
-## Author
-**Charith**  
 Roll No: 22701A3311  
 GitHub: [charith333](https://github.com/charith333)
 
